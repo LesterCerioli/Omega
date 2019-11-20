@@ -1,0 +1,8 @@
+C:\Users\Administrador\source\repos\Omega\Omega.Repository\bin\Debug\netcoreapp3.0\Omega.Repository.deps.json
+C:\Users\Administrador\source\repos\Omega\Omega.Repository\bin\Debug\netcoreapp3.0\Omega.Repository.dll
+C:\Users\Administrador\source\repos\Omega\Omega.Repository\bin\Debug\netcoreapp3.0\Omega.Repository.pdb
+C:\Users\Administrador\source\repos\Omega\Omega.Repository\obj\Debug\netcoreapp3.0\Omega.Repository.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\Omega\Omega.Repository\obj\Debug\netcoreapp3.0\Omega.Repository.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\Omega\Omega.Repository\obj\Debug\netcoreapp3.0\Omega.Repository.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\Omega\Omega.Repository\obj\Debug\netcoreapp3.0\Omega.Repository.dll
+C:\Users\Administrador\source\repos\Omega\Omega.Repository\obj\Debug\netcoreapp3.0\Omega.Repository.pdb
